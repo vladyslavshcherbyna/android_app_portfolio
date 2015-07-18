@@ -1,8 +1,5 @@
 <resources>
     <string name="app_name">My App Portfolio</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
     <string name="spotify_app_name">Spotify Streamer</string>
     <string name="football_app_name">Football Scores App</string>
     <string name="library_app_name">Library App</string>
